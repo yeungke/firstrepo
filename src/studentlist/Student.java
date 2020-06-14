@@ -1,5 +1,9 @@
 package studentlist;
 
+/*
+ * @author Kevin Yeung June 2020
+ */
+
 public class Student {
     private String name;
     private int id;
