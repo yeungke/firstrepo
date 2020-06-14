@@ -6,6 +6,6 @@ public class StudentList {
      Scanner input = new Scanner(System.in);
      
      for(int i = 0; i < students.length; i++) {
-        System.out.println
+        System.out.println("Student Name:");
 }
 }
